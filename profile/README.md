@@ -1,4 +1,4 @@
-## やあ、こんにちは！ 👋
+# やあ、こんにちは！ 👋
 
 <!--
 
@@ -11,8 +11,8 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-# ここは何？
+## ここは何？
 ここはチームSmile_wayaのゴミ置き場です。以後お見知り置きを。
 
-# 何してるの？
+## 何してるの？
 ゴミを量産しています。ただしそれはリーダーだけで、メンバーはSUPERGODNESSEXTREMEPERFECTGOODな作品を作っています。
