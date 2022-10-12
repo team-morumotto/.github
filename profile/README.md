@@ -16,4 +16,5 @@
 基本的にPublicにするものや、OPEN SOURCEのものは公開しません。予めご了承下さい。
 
 ## 何してるの？
-ゴミを量産しています。ただしそれはリーダーだけで、メンバーはSUPERGODNESSEXTREMEPERFECTGOODな作品を作っています。
+ゴミを量産しています。ただしそれはリーダーだけで、メンバーはSUPERGODNESSEXTREMEPERFECTGOODな作品を作っています。  
+お問い合わせ等はチーム公式Twitter (@Smile_waya)[https://twitter.com/Smile_waya] までお問い合わせ下さい。
