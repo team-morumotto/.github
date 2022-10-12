@@ -17,4 +17,4 @@
 
 ## 何してるの？
 ゴミを量産しています。ただしそれはリーダーだけで、メンバーはSUPERGODNESSEXTREMEPERFECTGOODな作品を作っています。  
-お問い合わせ等はチーム公式Twitter (@Smile_waya)[https://twitter.com/Smile_waya] までお問い合わせ下さい。
+お問い合わせ等はチーム公式Twitter [@Smile_waya](https://twitter.com/Smile_waya) までお問い合わせ下さい。
