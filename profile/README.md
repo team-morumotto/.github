@@ -11,7 +11,7 @@
 | 問い合わせ種類 | 問い合わせ先 |
 | :--- | :--- |
 | チーム公式Twitter | [@Smile_waya](https://twitter.com/Smile_waya) |
-| 代表のメール      | smile_waya@waya0125.com |
+| 代表のメール      | [ntaishin4264@gmail.com](<mailto:ntaishin4264@gmail.com>) |
 
 # 作成・お披露目した作品
 
