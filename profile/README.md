@@ -50,3 +50,12 @@
 | 作業時間 | 情報なし |
 | 作業メンバー | [柏屋陸人](https://github.com/waya0125)、[小林歩夢](https://github.com/fuchinosuke)、[小林篤記](https://github.com/aki2772) |
 | プロジェクトリポジトリ | [team-morumotto/GameOfTagMansion_V3](https://github.com/team-morumotto/GameOfTagMansion_V3) |
+
+## Kart_Racing
+| 概要 | 説明 |
+| :--- | :--- |
+| 備考 | 情報なし |
+| 製作期間 | 2023年9月～ |
+| 作業時間 | 情報なし |
+| 作業メンバー | [柏屋陸人](https://github.com/waya0125)、[小林歩夢](https://github.com/fuchinosuke)、[小林篤記](https://github.com/aki2772) |
+| プロジェクトリポジトリ | 非公開 (要問合せ) |
